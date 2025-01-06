@@ -1,1 +1,1 @@
-# Simple SMS Messenger
+# Android Intelligence SMS Messenger
